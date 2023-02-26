@@ -3,8 +3,8 @@
 
  ## Completed projects
  - Weather in cities (Using openweather API)
- - 4 mini projects:
-    - Password manager (Using Cryptography library)
+ - Password manager (Using Cryptography library)
+ - 3 mini projects:
     - Number guesser
     - Quiz game
     - Rock, Paper, Scissors
