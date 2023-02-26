@@ -9,3 +9,7 @@
     - Quiz game
     - Rock, Paper, Scissors
  - Simple calculation of the cost of traveling by car
+
+ ### Links to tutorials
+ [[3 Python Automation Projects - For Beginners]](https://youtu.be/Oz3W-LKfafE)
+ [[5 Mini Python Projects - For Beginners]](https://youtu.be/DLn3jOsNRVE)
